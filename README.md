@@ -1,4 +1,4 @@
-#ProSceduler
+#ProScheduler
 ## Objective
 
 This software automates the process of populating academic calendars with correct entries and reminders based on an academic calendar, timetable, exam duty alterations, and allocations. It is designed to streamline administrative tasks for the Exam Controller, Department Office, and faculty members.
